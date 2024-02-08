@@ -20,7 +20,26 @@
     "@angular/router": "^17.1.0",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",
-    "zone.js": "~0.14.3"
+    "zone.js": "~0.14.3",
+
+    "@avl-controls/automotive": "4.2.1",
+    "@avl-controls/core": "4.2.1",
+    "@avl-controls/datatable": "4.2.1",
+    "@avl-controls/incubating": "4.2.1",
+    "@avl-controls/ng-binders": "4.2.1",
+    "@avl-interfaces/interfaces": "4.2.1",
+    "@avl-interfaces/ng-interfaces": "4.2.1",
+    "@avl-ng-controls/common": "4.2.1",
+    "@avl-ng-controls/dialog": "4.2.1",
+    "@avl-ng-controls/navigation": "4.2.1",
+    "@avl-ng-controls/utility": "4.2.1",
+    "@avl-services/ng-services": "4.2.1",
+    "@avl-services/vanilla-js-services": "4.2.1",
+    "@avl-styles/common": "4.2.1",
+    "@avl-styles/controls": "4.2.1",
+    "@avl-styles/icons": "4.2.1",
+    "@avl-styles/svgs": "4.2.1",
+    "@avl-styles/mat-table": "4.2.1"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^17.1.2",
